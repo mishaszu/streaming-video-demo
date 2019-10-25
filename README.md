@@ -23,7 +23,7 @@ as well as
 </video>
 ```
 
-Website is albo capable of support more [stream protocols](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Live_streaming_web_audio_and_video) like:
+Website is also capable of support more [streaming protocols](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Live_streaming_web_audio_and_video) like:
 - HTTP
 - RTMP
 - RTSP 1.0 & 2.0
