@@ -33,3 +33,6 @@ Another way to support streamed conntent on FE is using [Media Source Extensions
 Also popular HTTP streaming formats:
 - MPEG-DASH
 - HLS
+
+## Other useful resources
+- http://diveintohtml5.info/video.html
